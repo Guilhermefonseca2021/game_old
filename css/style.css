@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #23232e;
+    border: 1px solid gray;
+/*fzr com q os blocos fiquem na msm linha */
+    display: inline-block; 
+}
+
+.o {
+/* para nosso o absolute nao vazar */
+    position: relative;
+}
+
+/*nao consigo colocar after no noso seletor normal */
+.o:after {
+/* relative como smp e relativo ao positon q n seja estatico */
+    position: absolute;
+    content: "⭕";
+    font-size: 70px;
+    line-height: 100px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.x {
+    position: relative;
+}
+    
+.x:after {
+    position: absolute;
+    content: "❌";
+    font-size: 70px;
+    line-height: 100px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+    
+
