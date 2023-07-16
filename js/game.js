@@ -40,12 +40,12 @@ function isWin() {
         [1, 4, 7],
         [2, 5, 8],
         [0, 4, 8],
-        [2, 4, 6]
+        [2, 4, 6],
     ]
 //qro q nosso index 0 atualiza a largura e incremente cada acao
     for (let i = 0; i < winStates.length; i++) {
         //cada elemento significa uma posicao de qual sequeuncia
-        let seq = winStates[1];
+        let seq = winStates[i];
 
         let pos1 = seq[0];
         let pos2 = seq[1];

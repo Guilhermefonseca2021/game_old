@@ -21,6 +21,7 @@ function handleclick(event) {
             alert("o jogo acabou o '" + playerTime + "' venceuu!!!")
         }, 10);
     }
+    
     updateSquares();
 }
 
