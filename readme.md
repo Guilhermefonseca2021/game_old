@@ -6,7 +6,7 @@
 
 
 # logica? passar todos os quadrados com id
-cada id tem o valor de 0 a 10 e passei esse ID dentro do html mesmo, esse valor corresponde a um elemento um .square (quadrado) do nosso board (quadro) esse quadro é nosso jogo da velha, no jogo da velha a 9 quadrados mas como jo javascript o topico seguinte detalho porque trabalhei comecando com 0.
+cada id tem o valor de 0 a 8 e passei esse ID dentro do html mesmo, esse valor corresponde a um elemento um .square (quadrado) do nosso board (quadro) esse quadro é nosso jogo da velha, no jogo da velha a 9 quadrados mas como jo javascript o topico seguinte detalho porque trabalhei comecando com 0.
 
 
 # javascript? por que arrays?
