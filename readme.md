@@ -22,3 +22,5 @@ square.foreEach.addEventListenner('click' () => {
 .
 testado a funcionalidade quero armazenar o que foi clicado em um array diretamente mas nao posso, ue? como fica? te respondo no instagram @guihsantos2
 vamos codar juntos
+
+https://github.com/Guilhermefonseca2021/game_old/assets/92196697/367222de-b8f4-404e-a442-47bf7a473966
