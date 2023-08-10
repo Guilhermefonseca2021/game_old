@@ -50,6 +50,8 @@ Este é um projeto de um jogo da velha implementado em JavaScript. O jogo permit
 7. Atualize o placar:
    - Mantenha o controle de quantas vitórias cada jogador tem.
    - Atualize o placar sempre que um jogador vencer.
+  
+<a href="https://game-old-nu.vercel.app/"> jogue agora! </a>
 
 
 https://github.com/Guilhermefonseca2021/game_old/assets/92196697/367222de-b8f4-404e-a442-47bf7a473966
